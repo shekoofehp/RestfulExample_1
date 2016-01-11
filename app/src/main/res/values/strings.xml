@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restful WebService Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="json_flower">json flower</string>
+    <string name="xml_flower">xml flower</string>
+    <string name="geo_finder">geo finder</string>
+    <string name="placeholder">Placeholder</string>
+
+</resources>

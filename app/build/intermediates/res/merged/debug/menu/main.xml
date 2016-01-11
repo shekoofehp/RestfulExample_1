@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.example.networktest.app.MainActivity" >
+    <item android:id="@+id/action_flower_json"
+        android:title="@string/json_flower"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item android:id="@+id/action_flower_xml"
+        android:title="@string/xml_flower"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item android:id="@+id/action_geo_finder"
+        android:title="@string/geo_finder"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+
+
+</menu>
+<!-- From: file:/C:/Users/SHEKOOFEH/AndroidStudioProjects/WellWorkingProjects/MyRestFull-Webservices-Android-Test/app/src/main/res/menu/main.xml -->
